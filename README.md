@@ -30,7 +30,7 @@ terraform-vpc-ec2-webpage/
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/your-username/terraform-vpc-ec2-webpage.git
+git clone https://github.com/Sajidbasha-shaik/terraform-aws-infrastructure.git
 cd terraform-vpc-ec2-webpage
 ```
 
